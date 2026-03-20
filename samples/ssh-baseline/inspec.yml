@@ -1,0 +1,9 @@
+name: ssh-baseline
+title: SSH Baseline
+maintainer: dev-sec.io
+copyright: DevSec Project
+license: Apache-2.0
+summary: Test-suite for best-practice SSH hardening
+version: 2.7.1
+supports:
+  - os-family: unix

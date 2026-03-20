@@ -1,0 +1,9 @@
+name: linux-baseline
+title: Linux Baseline
+maintainer: dev-sec.io
+copyright: DevSec Project
+license: Apache-2.0
+summary: Test-suite for best-practice Linux OS hardening
+version: 3.1.1
+supports:
+  - os-family: linux
